@@ -6,6 +6,6 @@
 
 2-服务端代码中的视图ejs文件中需要把css js路径指向真实目录!!!，请查看server/views/index.ejs中的路径
 
-这里只是把express4中的服务端目录代表移到server目录下,修改了app.js,bin/www
+这里只是把express4中的服务端目录移到server目录下,修改了app.js,bin/www
 
 3-cmd下执行 fis3 release -d ../dist
